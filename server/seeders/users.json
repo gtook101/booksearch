@@ -1,0 +1,27 @@
+[
+    {
+        "userName": "john",
+        "email": "john@yahoo.com",
+        "password": "abc123" 
+    },
+    {
+        "userName": "bob",
+        "email": "bob@gmail.com",
+        "password": "def456" 
+    },
+    {
+        "userName": "paul",
+        "email": "paul@hotmail.com",
+        "password": "ghi789" 
+    },
+    {
+        "userName": "chris",
+        "email": "chris@yahoo.com",
+        "password": "jkl101" 
+    },
+    {
+        "userName": "bill",
+        "email": "bill@gmail.com",
+        "password": "mno112" 
+    }
+]
